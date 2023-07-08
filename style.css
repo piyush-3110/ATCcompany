@@ -60,7 +60,7 @@ a{
 
 /* Hero Section */
 .hero{
-    background-image: url("images/bg-img.avif");
+    background-image: url("bg-img.avif");
     height: 100vh;
     width: 100%;
     background-position: center;
@@ -288,12 +288,12 @@ span{
     height: 100vh;
     text-align: center;
     width: 100%;
-    background-color: #4070F4;
+    background-image: url('bg-img.avif');
 }
 
 .contact-wrapper {
     max-width: 600px;
-    height: 90%;
+    height: 100%;
     margin: 0 auto;
     color:black;
     /* text-align: ; */
